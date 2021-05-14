@@ -1,8 +1,8 @@
 # scratch
-for projects
-may have sql
-may have notebooks
-learning python
-we shall see
+for projects 
+<p> may have sql
+<p> may have notebooks
+<p> learning python
+<p> we shall see
 <p>
   :coffee:
